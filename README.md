@@ -9,4 +9,4 @@ Grapher (This step can be run at any time as it generates the scatter plot)
 CIS to PDB
 Sorter
 Comparer
-Please let me know if there are any issues and I’ll look into it for you
+Please let me know if there are any issues 
